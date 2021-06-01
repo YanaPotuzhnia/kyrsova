@@ -1,0 +1,29 @@
+D:\curse\not mine\zakharevich\zakharevich\bin\Debug\db.mdb
+D:\curse\not mine\zakharevich\zakharevich\bin\Debug\zakharevich.exe.config
+D:\curse\not mine\zakharevich\zakharevich\bin\Debug\zakharevich.exe
+D:\curse\not mine\zakharevich\zakharevich\bin\Debug\zakharevich.pdb
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.csprojResolveAssemblyReference.cache
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.AdminForm.resources
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.AppartamentsControlForm.resources
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.AuthForm.resources
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.Properties.Resources.resources
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.ServicesControlForm.resources
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.csproj.GenerateResource.Cache
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.exe
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.pdb
+D:\curse\not mine\zakharevich\zakharevich\obj\Debug\zakharevich.ChangePassForm.resources
+C:\Users\Yana\Desktop\zakharevich\bin\Debug\db.mdb
+C:\Users\Yana\Desktop\zakharevich\bin\Debug\zakharevich.exe.config
+C:\Users\Yana\Desktop\zakharevich\bin\Debug\zakharevich.exe
+C:\Users\Yana\Desktop\zakharevich\bin\Debug\zakharevich.pdb
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.csprojAssemblyReference.cache
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.AdminForm.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.AppartamentsControlForm.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.AuthForm.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.ChangePassForm.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.Properties.Resources.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.ServicesControlForm.resources
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.csproj.GenerateResource.cache
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.exe
+C:\Users\Yana\Desktop\zakharevich\obj\Debug\zakharevich.pdb
